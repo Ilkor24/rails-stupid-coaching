@@ -1,24 +1,5 @@
-# README
+A "stupid" coach with 3 answer :
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. If the message is I am going to work, the coach will answer Great!
+2. If the message has a question mark ? at the end, the coach will answer Silly question, get dressed and go to work!.
+3. Otherwise the coach will answer I don't care, get dressed and go to work!
